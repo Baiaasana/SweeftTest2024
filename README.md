@@ -1,11 +1,11 @@
- # Problems Solutions for Sweeft Acceleration Program 2024
- ## Android (Kotlin)
+# Sweeft Acceleration Program 2024 - Android (Kotlin) Problem Solutions
 
- ## Topics:
+## Topics:
 
-- ## Unique number
-- ## Coin-Change
-- ## Longest Common Prefix
-- ## Binary sum
-- ## Climbing Stairs
-- ## Data Structure operations
+- **Unique number**
+- **Coin-Change**
+- **Longest Common Prefix**
+- **Binary sum**
+- **Climbing Stairs**
+- **Data Structure Operations**
+

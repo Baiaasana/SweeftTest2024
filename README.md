@@ -1,4 +1,4 @@
-# Sweeft Acceleration Program 2024 - Android (Kotlin) Problem Solutions
+# Sweeft Acceleration Program 2024 - Android (Kotlin) Problems Solutions
 
 ## Topics:
 
